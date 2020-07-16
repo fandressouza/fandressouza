@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with my UX skills
 - 💬 Ask me about Web Development and Web Scraping
 - 📫 How to reach me: [linkedin.com](https://www.linkedin.com/in/felipe-alarcon/)
-- ⚡ Fun fact: I build my own coffee roaster because I don't trust anyone else to do it for me.
+- ⚡ Fun fact: I built my own coffee roaster because I don't trust anyone else to do it for me.
 
