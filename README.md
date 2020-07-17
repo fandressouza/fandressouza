@@ -10,3 +10,5 @@
 - 📫 How to reach me: [linkedin.com](https://www.linkedin.com/in/felipe-alarcon/)
 - ⚡ Fun fact: I built my own coffee roaster because I don't trust anyone else to do it for me.
 
+#### You can also find me on [Stack Overflow](https://stackoverflow.com/users/3858757/felipe-alarcon)
+
